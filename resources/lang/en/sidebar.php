@@ -1,0 +1,38 @@
+<?php
+
+//add all translate about english lang
+return [
+     'main' => 'Main',
+        'shops'=>'Shops',
+        'view'=>'View All',
+        'm1'=>'brands',
+        'm2'=>'add new brand',
+        'products'=>'products',
+        'addnewproduct'=>'add new product',
+        'attribute'=>'attributes',
+        'addnewatt'=>'add new attribute',
+        'option'=>'options',
+        'addnewoption'=>'add new options',
+        'maincat'=>'main catgories',
+        'addnewcat'=>'add new category',
+        'maincat1'=>'sub category',
+        'addnewcat2'=>'add new main category',
+        'tag'=>'tags',
+        'addtag'=>'add tag',
+        'settings'=>'settings',
+        'free'=>'free shipping',
+        'inner'=>'inner shipping',
+        'outer'=>'outer shipping',
+        'slider'=>'slider',
+        'v1'=>'add photos',
+        'v2'=>'view added photos',
+        'shipping'=>'shipping methods',
+        's1'=>'all brands',
+        'name'=>' name',
+        'action'=>' action',
+        'status'=>'   status',
+    'submit'=>'submit',
+    'back'=>'   back',
+    'd1'=>'   data of brand',
+
+];
